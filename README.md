@@ -10,7 +10,7 @@ Most of my projects start with something that annoys me. I build the version I w
 
 ### Made a few things
 
-**[Minilytics](https://github.com/axthauvin/minilytics)** is my latest project. It is a privacy-first, self-hosted analytics tool that is easy to set up and use. It is designed to be a lightweight alternative to Google Analytics, with a focus on user privacy and data security.
+**[Minilytics](https://github.com/axthauvin/minilytics)** is my latest project: privacy-first analytics you host yourself, a tiny alternative to Google Analytics.
 
 <a href="https://github.com/axthauvin/minilytics">
   <img src="https://raw.githubusercontent.com/axthauvin/minilytics/main/docs/assets/banner.png" alt="Minilytics" width="100%">
