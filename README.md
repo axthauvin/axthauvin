@@ -10,7 +10,11 @@ Most of my projects start with something that annoys me. I build the version I w
 
 ### Made a few things
 
-**[Minilytics](https://github.com/axthauvin/minilytics)** is my favorite. It's simple web analytics that you host yourself, with no cookies and no banner. Drop it on any PHP host and you're done.
+**[Minilytics](https://github.com/axthauvin/minilytics)** is my latest project. It is a privacy-first, self-hosted analytics tool that is easy to set up and use. It is designed to be a lightweight alternative to Google Analytics, with a focus on user privacy and data security.
+
+<a href="https://github.com/axthauvin/minilytics">
+  <img src="https://raw.githubusercontent.com/axthauvin/minilytics/main/docs/assets/banner.png" alt="Minilytics" width="100%">
+</a>
 
 Also: [easy-share](https://github.com/axthauvin/easy-share) · [better-zeus](https://github.com/axthauvin/better-zeus) · [zamp](https://github.com/axthauvin/zamp) · [job-market-tracker](https://github.com/axthauvin/job-market-tracker) · [Parcoursup Explorer](https://parcoursup-explorer.fr)
 
