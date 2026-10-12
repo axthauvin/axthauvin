@@ -1,53 +1,25 @@
-<h1 align="center">Hello there, I'm Axel 👋</h1>
+<h1 align="center">Hey, I'm Axel 👋</h1>
 
-*Student at **EPITA** | AI Engineer & Founder*<br>
-Just a guy trying to build useful tools, solve problems with code, and bring strange ideas to life.<br>
-
-- I use daily: `.ts`, `.tsx`, `.css`, `.py`, `.java`, `.cpp`
----
-
-## Featured Projects
-
-### ecrismalettre.fr
-_AI-powered SaaS for generating tailored cover letters_
-
-<a href="https://ecrismalettre.fr">
-  <img align="left" src="https://ecrismalettre.fr/logo.png" height="50" alt="ecrismalettre logo">
-</a>
-
-A SaaS platform I founded and developed that leverages Artificial Intelligence to help users effortlessly generate cover letters, analyze resumes, and research job offers.
-
-[Visit ecrismalettre.fr →](https://ecrismalettre.fr)
-<br clear="left"/>
+<p align="center"><i>i like building small, slightly dumb projects that actually help people.</i></p>
 
 <br>
 
-### Zamp
-_Like Wamp, but with a cleaner UI_
+A final-year student at **EPITA**, into computer vision, deep learning and LLMs. Currently teaching models to read the **BnF**'s Gallica archive, and building [ecrismalettre.fr](https://ecrismalettre.fr) on the side.
 
-<a href="https://github.com/Axthauvin/zamp">
-  <img align="left" src="https://raw.githubusercontent.com/Axthauvin/ZAMP/main/src/svg/fishy.svg" height="50" alt="ZAMP logo">
-</a>
+Most of my projects start with something that annoys me. I build the version I wish existed, and then I share it with the world.
 
-ZAMP is an all-in-one **Open source** web development stack, integrating Apache, MySQL, and PHP for seamless local development. With zero configuration and one-click service start, it allows you to switch and manage multiple projects easily.
+### Made a few things
 
-[Check it out →](https://github.com/Axthauvin/Zamp)
-<br clear="left"/>
+**[Minilytics](https://github.com/axthauvin/minilytics)** is my favorite. It's simple web analytics that you host yourself, with no cookies and no banner. Drop it on any PHP host and you're done.
 
----
+Also: [easy-share](https://github.com/axthauvin/easy-share) · [better-zeus](https://github.com/axthauvin/better-zeus) · [zamp](https://github.com/axthauvin/zamp) · [job-market-tracker](https://github.com/axthauvin/job-market-tracker) · [Parcoursup Explorer](https://parcoursup-explorer.fr)
 
-## Other Cool Projects
+<br>
 
-- **[Parcoursup Explorer](https://parcoursup-explorer.fr)** – Interactive data visualization & statistics tool for Parcoursup data
-- **EPITRACE Packs** – EPITA student extension for flex stats
-- **Netflix BetterMarks** – IMDB/Metacritic ratings on Netflix
-- **Chess Analyzer** – Tool for analyzing chess matches
-
----
-
-<div align="center">
-
-Thanks for visiting!
-Feel free to check out my projects from my personnal website, or connect with me !
-
-</div>
+<p align="center">
+  <a href="https://axthauvin.fr"><b>axthauvin.fr</b></a> &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/axthauvin">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://x.com/axthauvin">X</a>
+  <br>
+  <sub>Looking for an end-of-studies internship from March 2027.</sub>
+</p>
