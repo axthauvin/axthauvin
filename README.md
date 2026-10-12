@@ -10,7 +10,7 @@ Most of my projects start with something that annoys me. I build the version I w
 
 ### Made a few things
 
-**[Minilytics](https://github.com/axthauvin/minilytics)** is my latest project: privacy-first analytics you host yourself, a tiny alternative to Google Analytics.
+**[Minilytics](https://github.com/axthauvin/minilytics)** is my latest project: privacy-first analytics you host yourself, a tiny alternative to Google Analytics. Written in PHP, not yet another Node.js app eating all your server's RAM.
 
 <a href="https://github.com/axthauvin/minilytics">
   <img src="https://raw.githubusercontent.com/axthauvin/minilytics/main/docs/assets/banner.png" alt="Minilytics" width="100%">
