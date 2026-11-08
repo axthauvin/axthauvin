@@ -6,19 +6,19 @@ i am a final-year student at **EPITA**, into computer vision, deep learning and 
 
 ### things i made
 
-<a href="https://ecrismalettre.fr"><img src="https://ecrismalettre.fr/logo.png" width="48" align="left" alt="EcrisMaLettre"></a>
+<a href="https://ecrismalettre.fr"><img src="assets/ecrismalettre.png" width="48" align="left" alt="EcrisMaLettre"></a>
 
 **[EcrisMaLettre](https://ecrismalettre.fr)** helps French-speaking job seekers go from the CV they have to applications they can actually send: optimized CV, matching job offers, ATS score, and a CV and cover letter tailored to each offer.
 
 <br clear="left">
 
-<a href="https://trouvetapromo.fr"><img src="https://trouvetapromo.fr/apple-icon" width="48" align="left" alt="TrouveTaPromo"></a>
+<a href="https://trouvetapromo.fr"><img src="assets/trouvetapromo.png" width="48" align="left" alt="TrouveTaPromo"></a>
 
 **[TrouveTaPromo](https://trouvetapromo.fr)** finds the best supermarket deals around you (Carrefour, Lidl, Auchan, Monoprix…), sorted by what you actually buy, so you pay less.
 
 <br clear="left">
 
-<a href="https://github.com/axthauvin/petitstats"><img src="https://raw.githubusercontent.com/axthauvin/petitstats/main/app/dashboard/src/assets/logo.png" width="48" align="left" alt="Petitstats"></a>
+<a href="https://github.com/axthauvin/petitstats"><img src="assets/petitstats.png" width="48" align="left" alt="Petitstats"></a>
 
 **[Petitstats](https://github.com/axthauvin/petitstats)** (formerly Minilytics, because the name was stolen) is a tiny, privacy-first, self-hosted alternative to Google Analytics. PHP + SQLite, so it runs on cheap shared hosting instead of another Node.js app eating your RAM.
 
