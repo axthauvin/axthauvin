@@ -1,39 +1,32 @@
-<h1 align="center">hey, i'm Axel 👋</h1>
+## hey, i'm Axel 👋
 
-<p align="center"><i>i like building small and slightly dumb projects that help other people.</i></p>
+i like building small and slightly dumb projects that help other people.
 
-<br>
+i am a final-year student at **EPITA**, into computer vision, deep learning and LLMs. Currently working with the **BnF** on Gallica's image project. Most of my projects start with something that annoys me, then i build the version i wish existed and share it.
 
-i am a final-year student at **EPITA**, into computer vision, deep learning and LLMs. Currently working with the **BnF**'s Gallica image project, and building [EcrisMaLettre](https://ecrismalettre.fr) and [Petitstats](https://github.com/axthauvin/petitstats) on the side.
+### things i made
 
-most of the time, my projects start with something that annoys me, and then i try to build the version i wish existed and share it with the world.
+<a href="https://ecrismalettre.fr"><img src="https://ecrismalettre.fr/logo.png" width="48" align="left" alt="EcrisMaLettre"></a>
 
-### also made a few things
+**[EcrisMaLettre](https://ecrismalettre.fr)** helps French-speaking job seekers go from the CV they have to applications they can actually send: optimized CV, matching job offers, ATS score, and a CV and cover letter tailored to each offer.
 
-**[EcrisMaLettre](https://ecrismalettre.fr)** helps French-speaking job seekers go from the CV they already have to applications they can actually send. Drop your CV, get an optimized version, find matching job offers (or bring your own), check your ATS compatibility score, then get a CV and cover letter tailored to each offer, all tracked in one dashboard.
+<br clear="left">
 
-<p align="center">
-  <a href="https://ecrismalettre.fr">
-    <img src="https://ecrismalettre.fr/og/analyse-cv-score.png" alt="Écris Ma Lettre: CV compatibility score" width="70%">
-  </a>
-</p>
+<a href="https://trouvetapromo.fr"><img src="https://trouvetapromo.fr/apple-icon" width="48" align="left" alt="TrouveTaPromo"></a>
 
-**[Petitstats](https://github.com/axthauvin/petitstats)** (formerly Minilytics because the name was stolen) is a privacy-first analytics tool you can self-host, and tries to be a tiny alternative to Google Analytics. it is written in PHP with SQLite, so it runs on a cheap shared hosting plan, because we don't need another Node.js app eating all your server's RAM.
+**[TrouveTaPromo](https://trouvetapromo.fr)** finds the best supermarket deals around you (Carrefour, Lidl, Auchan, Monoprix…), sorted by what you actually buy, so you pay less.
 
-<p align="center">
-  <a href="https://github.com/axthauvin/petitstats">
-    <img src="https://raw.githubusercontent.com/axthauvin/petitstats/main/docs/assets/banner.png" alt="Petitstats" width="70%">
-  </a>
-</p>
+<br clear="left">
 
-also made other small projects: [easy-share](https://github.com/axthauvin/easy-share) · [better-zeus](https://github.com/axthauvin/better-zeus) · [zamp](https://github.com/axthauvin/zamp) · [job-market-tracker](https://github.com/axthauvin/job-market-tracker) · [Parcoursup Explorer](https://parcoursup-explorer.fr)
+<a href="https://github.com/axthauvin/petitstats"><img src="https://raw.githubusercontent.com/axthauvin/petitstats/main/app/dashboard/src/assets/logo.png" width="48" align="left" alt="Petitstats"></a>
 
-<br>
+**[Petitstats](https://github.com/axthauvin/petitstats)** (formerly Minilytics, because the name was stolen) is a tiny, privacy-first, self-hosted alternative to Google Analytics. PHP + SQLite, so it runs on cheap shared hosting instead of another Node.js app eating your RAM.
 
-<p align="center">
-  <a href="https://axthauvin.fr"><b>axthauvin.fr</b></a> &nbsp;·&nbsp;
-  <a href="https://linkedin.com/in/axthauvin">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="https://x.com/axthauvin">X</a>
-  <br>
-  <sub>Looking for an end-of-studies internship from March 2027.</sub>
-</p>
+<br clear="left">
+
+also: [easy-share](https://github.com/axthauvin/easy-share) · [better-zeus](https://github.com/axthauvin/better-zeus) · [zamp](https://github.com/axthauvin/zamp) · [job-market-tracker](https://github.com/axthauvin/job-market-tracker) · [Parcoursup Explorer](https://parcoursup-explorer.fr)
+
+---
+
+[axthauvin.fr](https://axthauvin.fr) · [LinkedIn](https://linkedin.com/in/axthauvin) · [X](https://x.com/axthauvin)
+<br><sub>Looking for an end-of-studies internship from March 2027.</sub>
